@@ -1,3 +1,5 @@
+Turkish 
+
 Bu proje kullanıcı tarafından girilen para miktarına göre kur çevirisi yapmayı amaçlamaktadır. Bankamatik mantığıyla çalışmakta ve girdiğiniz verileri istediğiniz TL,EURO,USD cinsinden kurlara çevirmektedir. Veriler TCMB sitesinden güncel olarak alınmakta ve çeviriler buna göre yapılmaktadır. 
 
 Projede yazılan 
