@@ -23,7 +23,10 @@ Bu isimlendirmeler yapılırken "Barış Manço-Anahtar" şarkısından esinleni
 Bu seçimde objeler tanımlanmış ve rastgele fiyatlar belirlenmiştir. Ürünün fiyatı TL,EURO,USD cinsinden güncel kura göre çevrilir. Çevrilen fiyat için banknot hesaplaması yapılır.
 
 
+
+
 English
+
 This project aims to make currency translation according to the amount of money entered by the user. It works with the logic of ATM and converts the data you enter into the currency you want in TL, EURO, USD. The data are taken from the CBRT website and translations are made accordingly.
 
 1.CHOICE: 
